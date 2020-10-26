@@ -1,0 +1,33 @@
+.mycanvas{
+   background-color: #31f0f0;
+   margin: 125px 0px 125px 295px;
+
+}
+
+input{
+
+  background-color: #0b346e;
+  width: 140px;
+  height: 50px;
+  font-size: 40 px;
+  color:#d29edb;
+
+}
+#anchor{
+
+    background-color: #0b346e;
+    width: 280px;
+    height: 50px;
+    font-size: 40 px;
+    color:#d29edb;
+
+
+}
+.tdmenu{
+  padding-bottom: 240px;
+  padding-left:80px;
+}
+body{
+  max-height: 300px;
+  position: absolute;
+}
